@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>section 1,2&3</title>
+</head>
+<body>
+<!--content--> The main topics<br>
+<h1>pratibha1</h1>
+<h>pratibha2</h2>
+<h3>pratibha3</h3>
+<h4>pratibha4</h4>
+<h5>pratibha5</h5>
+<h6>pratibha6</h6>
+<pratibha>
+<br>
+jain
+<br>
+<a href="https://google.com">Google</a><br>
+<a href="https://wikipedia.com"> wikipedia</a><br>
+<button type="button">ridhi</button>
+<button type="button">sidhi</button>
+<img src="../Images/download.jpg"alt="server issues" height="75px" width="130"><br>
+<img src="../Images/vivekanand public school.jpg" alt="server issues" height="75px" width="120"><br>
+<b> hello this is pratibha</b><br>
+<i> hello this is pratibha1<i><br>
+<mark>hello this is pratibha2</mark><br>
+<small> hello this is pratibha3</samll><br>
+<del> hello this is pratibha4</del><br>
+<b> hello this is <sub>pratibha</sub>5</b><br>
+<b>O<sub>2</sub></b><br>
+<b>H<SUB>2</SUB>O</b><br>
+<b> hello this is <sup>pratibha</sup>6</b><br>
+<b> H <SUP> 2</SUP>O</B><br>
+<textarea name="txt" rows="10" cols="100"></textarea>
+</body>
+</html>
